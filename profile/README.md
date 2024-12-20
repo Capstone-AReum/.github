@@ -15,3 +15,6 @@
 ![7](https://github.com/user-attachments/assets/13c182ce-14db-4fab-a5c3-ddf3b569ad7a)
 ![9](https://github.com/user-attachments/assets/8fe9eb91-169e-4ccd-bca3-96ba82c467ae)
 ![10](https://github.com/user-attachments/assets/ebd6794e-e6a2-4f95-ad99-6c9601cae2ed)
+This Stability AI Model is licensed under the Stability AI Community License, Copyright © Stability AI Ltd. 
+</br>All Rights Reserved
+[Stability AI Acceptable Use Policy](https://stability.ai/use-policy)
